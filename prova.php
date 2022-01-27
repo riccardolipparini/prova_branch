@@ -1,5 +1,6 @@
 <?php
-echo "ciao"
+echo "ciao";
+echo "ciao a tutti"
 ?>
 
 <!DOCTYPE html>
