@@ -1,3 +1,7 @@
+<?php
+echo "ciao"
+?>
+
 <!DOCTYPE html>
 <html lang="it">
     <head>
